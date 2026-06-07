@@ -55,4 +55,5 @@ and give a name to it.
 
 Note: The name of the remote connection is always used to establish communication between the repos.
 
+20. 'git pull <remote name><branch name> : downloads latest chages from the branch of the mentioned remote in your local repos.
 
