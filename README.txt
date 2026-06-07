@@ -40,3 +40,19 @@ want the changes to be moved in working area or staging area then we use git res
 13. 'git diff commit1 commit2' -> gives the difference of all file change between two commits.
 
 14. 'git commit -m "" ' -> If we want to be avoid opening a text editor like vim/nano to add commit message we can use this following command.
+
+15. 'git remote' -> list down all the remote connection names
+
+16. Remote connection -> It helps you to link two git repositories for upoading and downloading changes
+from each otherwise.
+
+17.'git remove add <name of remote> <link of the remote>' ->this command helps us to add new link to the remote repo
+and give a name to it.
+
+18. 'give remote rm <name of remote>' -> this command deletes a remote connection.
+
+19. 'git remote rename <oldname> <newname>' -> this command renames the emote connection.
+
+Note: The name of the remote connection is always used to establish communication between the repos.
+
+
