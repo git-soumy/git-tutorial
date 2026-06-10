@@ -54,3 +54,13 @@ and give a name to it.
 19. 'git remote rename <oldname> <newname>' -> this command renames the emote connection.
 
 Note: The name of the remote connection is always used to establish communication between the repos.
+
+20. 'git pull <remote name><branch name> : downloads latest chages from the branch of the mentioned remote in your local repos.
+
+#### Recommended practise ####
+- make changes
+- git add <files>
+- git commit
+- git pull
+- git push
+
